@@ -26,3 +26,7 @@ Install using these steps:
 ### Windows if you Know What you are Doing (or Linux):
 
 1. Download all my code and compile with raylib.
+
+## Use in Projects
+
+Sinematic has no license and is free for personal and commercial use, but Sinematic uses a font in it's intro which is here: https://www.dafont.com/game-of-squids.font and this font has a few restrictions as to how the creator wants it to be used.
